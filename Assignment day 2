@@ -1,0 +1,7 @@
+sum1=0
+count=0
+num1=int(input("enter the range")
+while count<num1:
+     sum1=sum1+count
+     count+=1
+ print("sum of",num1,"number is",sum1)    
